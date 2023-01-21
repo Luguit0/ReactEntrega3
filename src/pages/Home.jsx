@@ -70,7 +70,7 @@ const Home = () => {
       <Container>
         <Row>
           <Col lg='12' className='text-center'>
-            <h2 className="section__tittle">Trending Products</h2>
+            <h2 className="section__tittle">Tendencia</h2>
           </Col>
           <ProductsList data={trendingProducts} />
         </Row>
@@ -80,7 +80,7 @@ const Home = () => {
       <Container>
       <Row>
           <Col lg='12' className='text-center'>
-            <h2 className="section__tittle">Best Sales</h2>
+            <h2 className="section__tittle">Mas vendidos</h2>
           </Col>
           <ProductsList data={bestSalesProducts} />
         </Row>
