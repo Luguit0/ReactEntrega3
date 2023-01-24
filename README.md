@@ -1,3 +1,19 @@
+
+# Bienvenidos a BlackStanley ( E-Commerce Proyecto)
+# Ahora subo los gif que pidieron 
+# NO PUDE HACER EL GIF PERO ACA ABAJO ESTA EL VIDEO
+![vid] https://res.cloudinary.com/dmh74auqy/video/upload/v1671629580/BLACKSTANLEY/entregareact2_peaqds.webm
+![vid] https://www.youtube.com/watch?v=YHaG7xr-C9s
+[![Alt text](https://img.youtube.com/vi/8f_Xm8gZ-l)](https://www.youtube.com/watch?v=8f_Xm8gZ-l)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
