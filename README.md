@@ -2,9 +2,7 @@
 # Bienvenidos a BlackStanley ( E-Commerce Proyecto)
 # Ahora subo los gif que pidieron 
 # NO PUDE HACER EL GIF PERO ACA ABAJO ESTA EL VIDEO
-
-![vid] https://www.youtube.com/watch?v=YHaG7xr-C9s
-[![Alt text](https://img.youtube.com/vi/8f_Xm8gZ-l/0.jpg)](https://www.youtube.com/watch?v=8f_Xm8gZ-l)
+[![Alt text](https://img.youtube.com/vi/YHaG7xr-C9s/0.jpg)](https://www.youtube.com/watch?v=YHaG7xr-C9s)
 
 
 
