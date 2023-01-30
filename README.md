@@ -3,7 +3,7 @@
 # Ahora subo los gif que pidieron 
 # NO PUDE HACER EL GIF PERO ACA ABAJO ESTA EL VIDEO
 [![Alt text](https://img.youtube.com/vi/8f_Xm8gZ-lo/0.jpg)](https://www.youtube.com/watch?v=8f_Xm8gZ-lo)
-
+# Seguimos avanzando con el proyecto ->-> https://github.com/Luguit0/ReactEntrega3bis ( tuve un problema con git no lo pude solucionar y nada tuve que crear un repo nuevo )
 https://youtu.be/8f_Xm8gZ-lo
 <iframe width="1903" height="810" src="https://www.youtube.com/embed/8f_Xm8gZ-lo" title="reactentrega3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
